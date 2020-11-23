@@ -38,9 +38,11 @@ I also used Apollo, since it provides a nice useQuery hook that can be used to e
 
 * Leave instruction on how to run and test your app here
 
-First, install npm packages by running `npm install`
-Run the app with `npm run start`
-Run the tests with `npm run test`
+1. Clone the git repo
+2. Install npm packages by running `npm install`
+3. Get the .env file containing my Github access token from Naseer Khan (I didn't commit it to the repo) and add it to the project directory
+4. Run the app with `npm run start`
+5. Run the tests with `npm run test`
 
 ### Future Improvements
 
